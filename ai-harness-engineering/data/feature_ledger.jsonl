@@ -1,0 +1,1 @@
+{"feature_id": "FR-20260401-0001", "timestamp": "2026-04-01T19:10:45.067822", "feature_name": "自动代码格式化", "user_context": "用户希望代码能自动格式化", "complexity": "简单", "status": "pending", "priority": "medium", "source": "user_request", "similar_to": null, "frequency": 1, "implementation_notes": "", "related_features": []}
